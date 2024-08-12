@@ -8,3 +8,4 @@ google-generativeai
 faiss-cpu
 python-dotenv
 setuptools
+langchain-community
