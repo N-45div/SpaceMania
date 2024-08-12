@@ -4,7 +4,7 @@ Tech:
    Google Gemini API ( For the core of the application)
    Next JS ( For the User friendly and efficient UI)
    Firebase ( For the Backend DataBase)
-
+   Python ( For Development Phase and Integrating all the above mentioned tech)
 
 Fine Tuning of Gemini Model :
     The model used here is based on a combination of pre trained Research Assistant Model and a separate model fine tuned for space data using structured prompt.
