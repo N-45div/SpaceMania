@@ -25,14 +25,20 @@ Connecting the Model with the App:
     Model was connected to the app using the Gemini API key, as the Gemini Model( base_analysis_1) is the brain of the Application.
     It is used to collect the prompts or the data given by the user to feed into the inference pipeline ( Using the Gemini API) and return the result and analytics of the Model back to the user using the 
     same pipeline.
-    
+     
 Data Links :
     NASA : https://data.nasa.gov/browse
     Kaggle : https://www.kaggle.com/datasets/nasa/meteorite-landings
              https://www.kaggle.com/datasets/nasa/asteroid-impacts
              https://www.kaggle.com/datasets/adityamishraml/nasaexoplanets
              https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results
+             
 The Dataset used is collected and analysed over the decades.
 
 The Application Features analyzing the contents of the documents uploaded ( for simplicity and pilot purpose we are sticking to .pdf format) and explaining them in accurate and precise manner.
+
+The image associated with the architecture is linked below.
+
+![DALL·E 2024-08-12 20 29 18 - A diagram of a Google Gemini architecture with three main components  At the top is the Base Model, labeled Gemini Flash 1 5 Research Assistant  T](https://github.com/user-attachments/assets/07c55584-8dcc-4507-9c4f-cf5209bf8bbd)
+
 
