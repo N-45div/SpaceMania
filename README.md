@@ -42,3 +42,36 @@ The image associated with the architecture is linked below.
 ![DALL·E 2024-08-12 20 29 18 - A diagram of a Google Gemini architecture with three main components  At the top is the Base Model, labeled Gemini Flash 1 5 Research Assistant  T](https://github.com/user-attachments/assets/07c55584-8dcc-4507-9c4f-cf5209bf8bbd)
 
 
+Login and Sign up Interface shown Below.
+
+![Screenshot 2024-08-13 011035](https://github.com/user-attachments/assets/3e2f2f77-3529-48ac-bd34-ae362a9320e4)
+
+
+After Logging UI is shown below .
+
+![Screenshot 2024-08-13 011106](https://github.com/user-attachments/assets/8723972a-b99e-43c3-9a9b-9184a78e8804)
+
+Testing the Fine Tuned Model (shown below).
+
+![Screenshot 2024-08-13 011200](https://github.com/user-attachments/assets/e27f498d-c82a-48c0-8a91-22f0c7aa7025)
+
+
+Test Instructions :
+  1. Set up the Environment :
+        - Install Streamlit: If you haven’t already, install Streamlit using pip:
+               pip install streamlit
+        - Python:
+               The SDK: pip install google-generativeai
+               The low-level client library: pip install google-ai-generativelanguage
+        - Install Gemini API: Install the necessary libraries for Google’s Gemini API:
+               pip install google-generative-ai
+
+   2. Write Tests Using Pytest:
+       - Install pytest if you haven’t already:
+              pip install pytest
+
+       - Create a test file, e.g., test_app.py, and write your tests
+     
+       - Run Your Tests:
+             Run your tests using pytest:  pytest test_app.py
+          
